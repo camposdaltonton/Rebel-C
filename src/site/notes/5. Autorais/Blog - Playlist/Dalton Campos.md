@@ -1,25 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-autorais/blog-playlist/dalton-campos/"}
+{"dg-publish":true,"permalink":"/5-autorais/blog-playlist/dalton-campos/","tags":["gardenEntry"]}
 ---
 
-
-<form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=hZIqlXio8k-zmMAUhsuoxPjJYMkQeIVJtemquFvwxa9UQ0JSTEhNTDNPTFNEQjlEUEYyVDVCVVZDMS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
