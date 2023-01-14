@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/5-autorais/blog-playlist/playlist/2a-edicao/edicao-2/"}
 ---
 
+## Playlist
+
+#2 17 de janeiro, O Cérebro Backup
+
 
 ## Um segundo cérebro
 
