@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-autorais/blog-playlist/playlist/2a-edicao/playlist-dalton-campos/"}
+{"dg-publish":true,"permalink":"/5-autorais/blog-playlist/playlist/2a-edicao/playlist-dalton-campos/","dgShowFileTree":true}
 ---
 
 ## Edição 2 | 17 de janeiro | O Cérebro Backup
