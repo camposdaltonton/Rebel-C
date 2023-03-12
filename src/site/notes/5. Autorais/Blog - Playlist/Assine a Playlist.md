@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-autorais/blog-playlist/assine-a-playlist/"}
+{"dg-publish":true,"permalink":"/5-autorais/blog-playlist/assine-a-playlist/","created":"","updated":""}
 ---
 
 Para se cadastrar, envie seu nome e o endereço de email
